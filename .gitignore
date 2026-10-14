@@ -1,0 +1,21 @@
+# Local Python environments and caches
+/env/
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Personal expense data and backups
+*.csv
+*.bak
+
+# Local secrets and editor settings
+.env
+.env.*
+.vscode/
+.idea/
+
+# Private workspace notes
+AGENTS.md
+specs/
